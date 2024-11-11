@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">MADTLab5</string>
+    <string name="filter_hint">Enter currency code (e.g., EUR)</string>
+    <string name="refresh_button_text">Refresh Rates</string>
 </resources>
